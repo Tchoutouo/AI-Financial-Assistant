@@ -36,3 +36,4 @@ Ce projet est une application Streamlit qui permet d'analyser des **rapports fin
 ```bash
 git clone https://github.com/Tchoutouo/AI-Financial-Assistant.git
 cd AI-Financial-Assistant
+pip install -r requirements.txt
